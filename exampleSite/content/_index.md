@@ -1,21 +1,40 @@
-# A match made in heaven
+## Polar Bear 🐻‍❄️
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+The modern web is *very* slow.  
+Full of *trackers*, *ads*, and *unnecessary features* that only take away from usability.  
+Many sites [***aren't built with forethought***](https://jeffhuang.com/designed_to_last/) and end up breaking due to broken dependencies or difficult maintenance.  
+[Hugo](https://www.gohugo.io) creates a nice middleground with its ease of maintenance and content addition.    
+without having to do everything in HTML and CSS.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
-
-[Go to the original bear blog](https://bearblog.dev/).
-
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+[*Polar Bear*](https://codeberg.org/east/Polar-Bear) is a fork of the [*Hugo Bear Blog*](https://github.com/janraasch/hugo-bearblog) *theme*.  
+ I created this to give my own spin on the already excellent theme *(for fun)*.
 
 ---
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
+## Installation
 
-Each page is ~5kb, and you can **host your blog yourself**.
+
+> hugo new site *website_name*
+
+> cd *website_name/themes*
+
+> git clone https://codeberg.org/east/Polar-Bear
+
+
+Lastly add this line to the end of `hugo.toml`.
+
+
+> theme = 'Polar-Bear' 
+
+
+### Credits 
+
+[Jan Raasch](https://github.com/janraasch), for creating the [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme.
+
+[Herman Martinus](https://herman.bearblog.dev), for creating the original [ʕ•ᴥ•ʔ Bear Blog](https://bearblog.dev/).
+
+[Lauren](https://codeberg.org/lauren), for contributing css.
+
+Lastly me, [east](https://eastz.org). ٩(ˊᗜˋ*)و
+
+---
