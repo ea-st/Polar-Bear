@@ -35,7 +35,7 @@ You can add **a new blog-post** via running
 hugo new blog/my-new-post.md
 ```
 
-## Credits 
+## Credits
 
 [Jan Raasch](https://github.com/janraasch), for creating the [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme.
 
