@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/blog/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/markdown/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/tags/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/markdown-syntax/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/blog/markdown-syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/syntax/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/tags/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/tags/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/categories/</loc>
   </url><url>
-    <loc>https://example.org/hugo/</loc>
+    <loc>https://ea-st.github.io/Polar-Bear/hugo/</loc>
   </url>
 </urlset>
