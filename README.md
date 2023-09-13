@@ -41,4 +41,4 @@ hugo new blog/my-new-post.md
 
 [Herman](https://herman.bearblog.dev), for creating the original [ʕ•ᴥ•ʔ Bear Blog](https://bearblog.dev/).
 
-[Lauren](https://codeberg.org/lauren), for helping with css.
+[Lauren](https://codeberg.org/lauren), for contributing css.
