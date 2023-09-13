@@ -1,10 +1,10 @@
 # Polar Bear 🐻‍❄️
-[Hugo](https://gohugo.io/) theme based on [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog) & [Bear Blog](https://bearblog.dev).
+[Hugo](https://gohugo.io/) theme based on [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog) and [Bear Blog](https://bearblog.dev).
 
 
 ## Demo
 
-Currently no avaliable demo (Working on it!). 🔨
+Demo for this theme is avaliable at [ea-st.github.io/Polar-Bear](https://ea-st.github.io/Polar-Bear/).
 
 
 ## Installation
