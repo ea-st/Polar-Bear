@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
+    <link>https://ea-st.github.io/Polar-Bear/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ea-st.github.io/Polar-Bear/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>markdown</title>
-      <link>https://example.org/tags/markdown/</link>
+      <link>https://ea-st.github.io/Polar-Bear/tags/markdown/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/markdown/</guid>
+      <guid>https://ea-st.github.io/Polar-Bear/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>https://example.org/tags/syntax/</link>
+      <link>https://ea-st.github.io/Polar-Bear/tags/syntax/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/syntax/</guid>
+      <guid>https://ea-st.github.io/Polar-Bear/tags/syntax/</guid>
       <description></description>
     </item>
     
