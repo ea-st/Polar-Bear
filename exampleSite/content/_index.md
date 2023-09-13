@@ -3,7 +3,7 @@
 The modern web is *very* slow.  
 Full of *trackers*, *ads*, and *unnecessary features* that only take away from usability.  
 Many sites [***aren't built with forethought***](https://jeffhuang.com/designed_to_last/) and end up breaking due to broken dependencies or difficult maintenance.  
-[Hugo](https://www.gohugo.io) creates a nice middleground with its ease of maintenance and content addition.    
+[Hugo](https://gohugo.io) creates a nice middleground with its ease of maintenance and content addition.    
 without having to do everything in HTML and CSS.
 
 [*Polar Bear*](https://codeberg.org/east/Polar-Bear) is a fork of the [*Hugo Bear Blog*](https://github.com/janraasch/hugo-bearblog) *theme*.  
