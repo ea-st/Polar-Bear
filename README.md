@@ -8,12 +8,6 @@ Demo for this theme is avaliable at [ea-st.github.io/Polar-Bear](https://ea-st.g
 
 
 ## Installation
-[menu]
-    [[menu.main]]
-        identifier = "blog"
-        name = "Blog"
-        url = "/blog"
-        weight = "10"
 ```
 hugo new site website_name
 ```
