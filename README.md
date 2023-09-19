@@ -36,6 +36,10 @@ You can add **a new blog-post** via running
 hugo new blog/my-new-post.md
 ```
 
+## Disclaimer 
+This doesn't do much differently than [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog/) you should use it instead! </br>
+Updates aren't guaranteed, and this only has its own repository out of convenience to me.
+
 ## Credits
 
 [Jan Raasch](https://github.com/janraasch), for creating the [Hugo Bear Blog](https://github.com/janraasch/hugo-bearblog/) theme.
@@ -43,3 +47,4 @@ hugo new blog/my-new-post.md
 [Herman](https://herman.bearblog.dev), for creating the original [ʕ•ᴥ•ʔ Bear Blog](https://bearblog.dev/).
 
 [Lauren](https://codeberg.org/lauren), for contributing css.
+
