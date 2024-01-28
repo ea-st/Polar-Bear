@@ -17,7 +17,7 @@ features = ["favicon", "seo", "rss",]
 # Authors 
 [author]
   name = "east"
-  homepage = "https://www.eastz.org"
+  homepage = "https://www.east.rip"
 
 # If porting an existing theme
 [original]
