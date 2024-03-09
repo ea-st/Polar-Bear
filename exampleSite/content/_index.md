@@ -35,6 +35,6 @@ Lastly add this line to the end of `hugo.toml`.
 
 [Lauren](https://codeberg.org/lauren), for contributing css.
 
-Lastly me, [east](https://eastz.org). ٩(ˊᗜˋ*)و
+Lastly me, [east](https://east.rip). ٩(ˊᗜˋ*)و
 
 ---
